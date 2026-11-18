@@ -1,0 +1,3 @@
+# License tokens must be served byte-exact (no CRLF/LF conversion on any machine)
+*.lic -text
+licenses/*.lic -text -diff
