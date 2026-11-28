@@ -44,37 +44,37 @@ Its toolset is built around practical trading workflows, including:
 
 ## Product Gallery
 
-These are screenshots captured from the actual ONYXIA EA interface. Images are resized and compressed for faster loading in this README.
+Every feature image below is a genuine screenshot of the ONYXIA EA interface running in MetaTrader 5. The gallery uses real product captures, not AI-generated mockups or reconstructed feature illustrations.
 
 <table>
 <tr>
 <td width="50%" align="center">
-<a href="assets/gallery/smart-money-structure.webp"><img src="assets/gallery/smart-money-structure.webp" alt="Original ONYXIA Smart Money interface and chart" width="100%"></a><br>
+<a href="assets/gallery/smart-money-structure.png"><img src="assets/gallery/smart-money-structure.png" alt="Original ONYXIA Smart Money interface and chart" width="100%"></a><br>
 <strong>Smart Money Structure</strong><br><sub>Structure, blocks, levels and live market view</sub>
 </td>
 <td width="50%" align="center">
-<a href="assets/gallery/candlestick-patterns.png"><img src="assets/gallery/candlestick-patterns.png" alt="Original ONYXIA Candle Type interface and chart" width="100%"></a><br>
+<a href="assets/gallery/candlestick-patterns.png"><img src="assets/gallery/candlestick-patterns.png" alt="Actual ONYXIA Candle Type settings and chart screenshot" width="100%"></a><br>
 <strong>Candlestick Type</strong><br><sub>Bullish, bearish and neutral pattern settings with chart markings</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="assets/gallery/divergence-analysis.webp"><img src="assets/gallery/divergence-analysis.webp" alt="Original ONYXIA Divergence interface and chart" width="100%"></a><br>
+<a href="assets/gallery/divergence-analysis.png"><img src="assets/gallery/divergence-analysis.png" alt="Actual ONYXIA divergence controls and chart overlay" width="100%"></a><br>
 <strong>Divergence Analysis</strong><br><sub>Divergence drawing, indicator selection and chart display</sub>
 </td>
 <td width="50%" align="center">
-<a href="assets/gallery/manual-trading.webp"><img src="assets/gallery/manual-trading.webp" alt="Original ONYXIA manual trading panel and risk reward tools" width="100%"></a><br>
+<a href="assets/gallery/manual-trade-risk-reward.png"><img src="assets/gallery/manual-trade-risk-reward.png" alt="Actual on-chart order panel with entry, stop-loss and take-profit levels" width="100%"></a><br>
 <strong>Manual Trading &amp; Risk/Reward</strong><br><sub>Order controls, lot calculation, stop-loss and take-profit</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="assets/gallery/market-sessions.webp"><img src="assets/gallery/market-sessions.webp" alt="Original ONYXIA market session time overlay" width="100%"></a><br>
+<a href="assets/gallery/market-sessions.png"><img src="assets/gallery/market-sessions.png" alt="Actual ONYXIA market-session settings and chart overlay" width="100%"></a><br>
 <strong>Market Sessions</strong><br><sub>Session-time display on the trading chart</sub>
 </td>
 <td width="50%" align="center">
-<a href="assets/gallery/trading-journal-dashboard.png"><img src="assets/gallery/trading-journal-dashboard.png" alt="Original ONYXIA Journal panel and Excel trade report" width="100%"></a><br>
-<strong>Trading Journal &amp; Excel Export</strong><br><sub>Journal controls and exported trade-history workbook</sub>
+<a href="assets/gallery/trading-journal-dashboard.png"><img src="assets/gallery/trading-journal-dashboard.png" alt="Actual ONYXIA Journal panel and exported Excel trade report" width="100%"></a><br>
+<strong>Trading Journal &amp; Excel Export</strong><br><sub>Trade-history journal and exported Excel report</sub>
 </td>
 </tr>
 </table>
