@@ -53,7 +53,7 @@ These are screenshots captured from the actual ONYXIA EA interface. Images are r
 <strong>Smart Money Structure</strong><br><sub>Structure, blocks, levels and live market view</sub>
 </td>
 <td width="50%" align="center">
-<a href="assets/gallery/candlestick-patterns.webp"><img src="assets/gallery/candlestick-patterns.webp" alt="Original ONYXIA Candle Type interface and chart" width="100%"></a><br>
+<a href="assets/gallery/candlestick-patterns.png"><img src="assets/gallery/candlestick-patterns.png" alt="Original ONYXIA Candle Type interface and chart" width="100%"></a><br>
 <strong>Candlestick Type</strong><br><sub>Bullish, bearish and neutral pattern settings with chart markings</sub>
 </td>
 </tr>
