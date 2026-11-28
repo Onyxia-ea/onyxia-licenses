@@ -42,6 +42,45 @@ Its toolset is built around practical trading workflows, including:
 - **Trade management** — manage market and pending orders through the available panel tools.
 - **License and update support** — receive license and update information through the ONYXIA service.
 
+## Product Gallery
+
+A closer look at selected ONYXIA EA chart tools and trading workflows.
+
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="assets/gallery/smart-money-structure.png"><img src="assets/gallery/smart-money-structure.png" alt="ONYXIA Smart Money market structure tools" width="100%"></a><br>
+<strong>Smart Money Structure</strong><br><sub>Chart-based market structure tools</sub>
+</td>
+<td width="50%" align="center">
+<a href="assets/gallery/candlestick-patterns.svg"><img src="assets/gallery/candlestick-patterns.svg" alt="Candlestick pattern examples" width="100%"></a><br>
+<strong>Candlestick Patterns</strong><br><sub>Illustrative candle types and price-action formations</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="assets/gallery/divergence-analysis.png"><img src="assets/gallery/divergence-analysis.png" alt="ONYXIA divergence analysis on chart" width="100%"></a><br>
+<strong>Divergence Analysis</strong><br><sub>Visual divergence analysis on chart</sub>
+</td>
+<td width="50%" align="center">
+<a href="assets/gallery/manual-trade-risk-reward.svg"><img src="assets/gallery/manual-trade-risk-reward.svg" alt="Manual trading risk reward illustration" width="100%"></a><br>
+<strong>Manual Trading &amp; Risk/Reward</strong><br><sub>Illustrative entry, stop-loss and take-profit workflow</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="assets/gallery/market-sessions.png"><img src="assets/gallery/market-sessions.png" alt="ONYXIA market sessions overlay" width="100%"></a><br>
+<strong>Market Sessions</strong><br><sub>Session timing displayed on the chart</sub>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/Onyxia-ea/onyxia-licenses/blob/main/docs/INSTALLATION.md"><img src="https://img.shields.io/badge/ONYXIA-Setup%20%26%20Guides-16a085?style=for-the-badge" alt="ONYXIA setup and guides"></a><br>
+<strong>Setup &amp; Documentation</strong><br><sub>Bilingual installation and troubleshooting guide</sub>
+</td>
+</tr>
+</table>
+
+> The candlestick and risk/reward graphics are illustrative diagrams. Product screenshots are identified by their captions.
+
 > ONYXIA is a trading and trade-management tool. It does not guarantee profits or eliminate market risk. Always understand the settings you use and test carefully before trading live.
 
 ## Download
